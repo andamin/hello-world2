@@ -1,3 +1,3 @@
 # hello-world2
 My actual repository
-Crap.
+Getting the idea here.
